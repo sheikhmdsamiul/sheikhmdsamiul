@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent Computer Science and Engineering graduate from North South University, with a specialization in Artificial<br>Intelligence. Proficient in Machine Learning and Natural Language Processing, with hands-on experience in database<br>management, web development, and mobile app development.
+Recent Computer Science and Engineering graduate from North South University, with a specialization in Artificial Intelligence. Proficient in Machine Learning and Natural Language Processing, with hands-on experience in database management, web development, and mobile app development.
 
 
 ## 🌐 Socials:

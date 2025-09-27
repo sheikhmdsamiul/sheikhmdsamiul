@@ -1,10 +1,3 @@
-# 💫 About Me:
-Recent Computer Science and Engineering graduate from North South University, with a specialization in Artificial Intelligence. Proficient in Machine Learning and Natural Language Processing, with hands-on experience in database management, web development, and mobile app development.
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/skm.samiul.7/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shiekhsamiul/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikhsamiul07/) 
-
 # 💻 Tech Stack:
 
 ### Languages:
